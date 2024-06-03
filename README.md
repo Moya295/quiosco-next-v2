@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Quiosco de Comida
 
-## Getting Started
+Este proyecto es parte del curso de Udemy "Aprende React desde cero: Hooks y State hasta TypeScript, Zod, Zustand, React Query, Next.js, React Router, MERN y PERN" impartido por Juan Pablo De la Torre Valdez. El objetivo del proyecto es desarrollar una aplicación de quiosco de comida que incluye una interfaz de usuario y una interfaz de administrador, similar a Uber Eats para un restaurante.
 
-First, run the development server:
+## Características
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Interfaz de Usuario (Frontend)**
+  - Visualización del menú de productos.
+  - Selección de productos para el carrito de compras.
+  - Gestión de pedidos en tiempo real.
+  - Autenticación de usuarios.
+  - Resumen de pedidos y proceso de pago.
+  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Interfaz de visualizacion de órdenes (Frontend)**
+  - Gestión de productos (crear, actualizar, eliminar).
+  - Gestión de categorías de productos.
+  - Visualización y gestión de pedidos en tiempo real.
+  - Informes de ventas y estadísticas.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+- **Interfaz de Administrador (Backend)**
+  - Gestión de productos (crear, actualizar, eliminar).
+  - Gestión de categorías de productos.
+  - Visualización y gestión de pedidos en tiempo real.
+  - Informes de ventas y estadísticas.
+  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Lo unico que queda por hacer es implementar algo innovador al proyecto   
+  
+ Eduardo Moya Zamarripa v2
